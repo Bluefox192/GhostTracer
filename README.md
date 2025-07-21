@@ -14,9 +14,7 @@ TraceGhost is a lightweight toolkit to collect and analyze side-channel traces l
 - Compatible with `ByteBreaker`
 
 ## 📁 Structure
-/traceghost
-├── probe/
-├── analysis/
-└── ui/
-
----
+traceghost
+ ├── probe/
+ ├── analysis/
+ └── ui/
